@@ -48,7 +48,7 @@ ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
 
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Junior Software Developer', 'Grand Canyon University Student', 'Military Veteran'],
+    strings: ['Software Developer', 'Grand Canyon University Student', 'Military Veteran'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
